@@ -7,3 +7,4 @@ grinding algos until I lose my mind
 
 ## Problems
 0001. [Two Sum](./0001_two_sum.md)
+0003. [Longest Substring Without Repeating Characters](./0003_longest_substring_without_repeating_characters.md)
