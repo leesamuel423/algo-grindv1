@@ -6,5 +6,6 @@ grinding algos until I lose my mind
 ![Python](https://img.shields.io/badge/-Python-3776ab?style=flat&logo=python&logoColor=white)
 
 ## Problems
-0001. [Two Sum](./0001_two_sum.md)
-0003. [Longest Substring Without Repeating Characters](./0003_longest_substring_without_repeating_characters.md)
+[0001. Two Sum](./leetcode/0001_two_sum.md)  
+[0003. Longest Substring Without Repeating Characters](./leetcode/0003_longest_substring_without_repeating_characters.md)  
+[0088. Merge Sorted Array](./leetcode/0088_merge_sorted_array.md)
