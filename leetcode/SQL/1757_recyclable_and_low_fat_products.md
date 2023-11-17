@@ -53,7 +53,7 @@ WHERE low_fats = 'Y' AND recyclable = 'Y'
 ```
 
 ## PostgreSQL
-```postgresql
+```sql
 SELECT product_id
 FROM products
 WHERE low_fats = 'Y' AND recyclable = 'Y'
