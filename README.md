@@ -14,4 +14,5 @@ grinding algos until I lose my mind
 [0088. Merge Sorted Array](./leetcode/0088_merge_sorted_array.md)  
 [0584. Find Customer Referee](./leetcode/SQL/0584_find_customer_referee.md) (Database)  
 [0595. Big Countries](./leetcode/SQL/0595_big_countries.md) (Database)  
+[1148. Article Views I](./leetcode/SQL/1148_article_views_I) (Database)  
 [1757. Recyclable and Low Fat Products](./leetcode/SQL/1757_recyclable_and_low_fat_products.md) (Database)  
