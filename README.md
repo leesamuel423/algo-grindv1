@@ -20,3 +20,4 @@ grinding algos until I lose my mind
 
 ## Daily Byte Problem List
 [1. Reverse String](./dailyByte/1_reverse_string.md)  
+[2. Valid Palindrome](./dailyByte/2_valid_palindrome.md)  
