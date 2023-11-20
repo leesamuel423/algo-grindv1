@@ -11,6 +11,7 @@ grinding algos until I lose my mind
 ## LeetCode Problems List
 [0001. Two Sum](./leetcode/0001_two_sum.md)  
 [0003. Longest Substring Without Repeating Characters](./leetcode/0003_longest_substring_without_repeating_characters.md)  
+[0049. Group Anagrams](./leetcode/0049_group_anagrams.md)  
 [0088. Merge Sorted Array](./leetcode/0088_merge_sorted_array.md)  
 [0584. Find Customer Referee](./leetcode/SQL/0584_find_customer_referee.md) (Db)  
 [0595. Big Countries](./leetcode/SQL/0595_big_countries.md) (Db)  
