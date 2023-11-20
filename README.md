@@ -8,7 +8,7 @@ grinding algos until I lose my mind
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-2C2D72?style=flat&logo=pandas&logoColor=white)
 
-## Problems List
+## LeetCode Problems List
 [0001. Two Sum](./leetcode/0001_two_sum.md)  
 [0003. Longest Substring Without Repeating Characters](./leetcode/0003_longest_substring_without_repeating_characters.md)  
 [0088. Merge Sorted Array](./leetcode/0088_merge_sorted_array.md)  
@@ -17,3 +17,6 @@ grinding algos until I lose my mind
 [1148. Article Views I](./leetcode/SQL/1148_article_views_I) (Db)  
 [1683. Invalid Tweets](./leetcode/SQL/1683_invalid_tweets.md) (Db)  
 [1757. Recyclable and Low Fat Products](./leetcode/SQL/1757_recyclable_and_low_fat_products.md) (Db)  
+
+## Daily Byte Problem List
+[1. Reverse String](./dailyByte/1_reverse_string.md)  
