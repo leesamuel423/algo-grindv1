@@ -13,12 +13,16 @@ grinding algos until I lose my mind
 [0003. Longest Substring Without Repeating Characters](./leetcode/0003_longest_substring_without_repeating_characters.md)  
 [0049. Group Anagrams](./leetcode/0049_group_anagrams.md)  
 [0088. Merge Sorted Array](./leetcode/0088_merge_sorted_array.md)  
+[0125. Valid Palindrome](./leetcode/0125_valid_palindrome.md)  
 [0584. Find Customer Referee](./leetcode/SQL/0584_find_customer_referee.md) (Db)  
 [0595. Big Countries](./leetcode/SQL/0595_big_countries.md) (Db)  
+[1068. Product Sales Analysis I](./leetcode/SQL/1068_product_sales_analysis_I.md) (Db)  
 [1148. Article Views I](./leetcode/SQL/1148_article_views_I) (Db)  
+[1378. Replace Employee ID With The Unique Identifier](./leetcode/SQL/1378_replace_employee_id_with_the_unique_identifier.md) (Db)  
 [1683. Invalid Tweets](./leetcode/SQL/1683_invalid_tweets.md) (Db)  
 [1757. Recyclable and Low Fat Products](./leetcode/SQL/1757_recyclable_and_low_fat_products.md) (Db)  
 
-## Daily Byte Problem List
+
+## Daily Byte Problems List
 [1. Reverse String](./dailyByte/1_reverse_string.md)  
 [2. Valid Palindrome](./dailyByte/2_valid_palindrome.md)  
