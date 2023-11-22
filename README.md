@@ -23,6 +23,16 @@ grinding algos until I lose my mind
 [1757. Recyclable and Low Fat Products](./leetcode/SQL/1757_recyclable_and_low_fat_products.md) (Db)  
 
 
-## Daily Byte Problems List
+## [Daily Byte](https://thedailybyte.dev/) Problems List
 [1. Reverse String](./dailyByte/1_reverse_string.md)  
 [2. Valid Palindrome](./dailyByte/2_valid_palindrome.md)  
+
+## HackerRank Problems List
+### SQL
+[1. Revising the Select Query I](./hackerRank/1_revising_the_select_query_I.md)  
+[2. Revising the Select Query II](./hackerRank/2_revising_the_select_query_II.md)  
+[3. Select All](./hackerRank/3_%20select_all.md)  
+[4. Select By Id](./hackerRank/4_select_by_id.md)  
+[5. Japanese Cities' Attributes](./hackerRank/5_japanese_cities_attributes.md)  
+[6. Japanese Cities' Names](./hackerRank/6_japanese_cities_names.md)  
+[7. Weather Observation Station 1](./hackerRank/7_weather_observation_station_1.md)  
