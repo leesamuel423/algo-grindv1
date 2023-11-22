@@ -27,6 +27,8 @@ grinding algos until I lose my mind
 ## [Daily Byte](https://thedailybyte.dev/) Problems List  
 - [1. Reverse String](./dailyByte/1_reverse_string.md)  
 - [2. Valid Palindrome](./dailyByte/2_valid_palindrome.md)  
+- [3. Vacuum Cleaner Route](./dailyByte/3_vacuum_cleaner_route.md)
+- [4. Correct Capitalization](./dailyByte/4_correct_capitalization.md)
 
 ## HackerRank Problems List  
 ### SQL  
