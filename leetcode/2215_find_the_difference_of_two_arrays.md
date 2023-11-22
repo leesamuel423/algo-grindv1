@@ -89,6 +89,9 @@ class Solution:
   def findDifference(self, nums1, nums2):
     uniqueNums1 = set(nums1)
     uniqueNums2 = set(nums2)
+
+    # List comprehension to add all numbers that are not in the other set to their respective lists
+      # essentially means if the `num` in nums1 is not in uniqueNums2, make it a num of result1
     result1 = [num for num in nums1 if num not in uniqueNums2]
     result2 = [num for num in nums2 if num not in uniqueNums1]
 
