@@ -8,32 +8,38 @@ grinding algos until I lose my mind
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-2C2D72?style=flat&logo=pandas&logoColor=white)
 
-## LeetCode Problems List
-[0001. Two Sum](./leetCode/0001_two_sum.md)  
-[0003. Longest Substring Without Repeating Characters](./leetCode/0003_longest_substring_without_repeating_characters.md)  
-[0049. Group Anagrams](./leetCode/0049_group_anagrams.md)  
-[0088. Merge Sorted Array](./leetCode/0088_merge_sorted_array.md)  
-[0125. Valid Palindrome](./leetCode/0125_valid_palindrome.md)  
-[0283. Move Zeroes](./leetCode/0283_move_zeroes.md)  
-[0584. Find Customer Referee](./leetCode/SQL/0584_find_customer_referee.md) (Db)  
-[0595. Big Countries](./leetCode/SQL/0595_big_countries.md) (Db)  
-[1068. Product Sales Analysis I](./leetCode/SQL/1068_product_sales_analysis_I.md) (Db)  
-[1148. Article Views I](./leetCode/0049_group_anagrams.md) (Db)  
-[1378. Replace Employee ID With The Unique Identifier](./leetCode/SQL/1378_replace_employee_id_with_the_unique_identifier.md) (Db)  
-[1683. Invalid Tweets](./leetCode/SQL/1683_invalid_tweets.md) (Db)  
-[1757. Recyclable and Low Fat Products](./leetCode/SQL/1757_recyclable_and_low_fat_products.md) (Db)  
+## Table of Contents
+- [Daily Byte](#daily-byte)
+- [HackerRank](#hackerrank)
+- [LeetCode](#leetcode)
 
+## Daily Byte
+- [Reverse String](dailyByte/1_reverse_string.md)
+- [Valid Palindrome](dailyByte/2_valid_palindrome.md)
 
-## [Daily Byte](https://thedailybyte.dev/) Problems List
-[1. Reverse String](./dailyByte/1_reverse_string.md)  
-[2. Valid Palindrome](./dailyByte/2_valid_palindrome.md)  
+## HackerRank
+- [Revising the Select Query I](hackerRank/1_revising_the_select_query_I.md)
+- [Revising the Select Query II](hackerRank/2_revising_the_select_query_II.md)
+- [Select All](hackerRank/3_select_all.md)
+- [Select By ID](hackerRank/4_select_by_id.md)
+- [Japanese Cities' Attributes](hackerRank/5_japanese_cities_attributes.md)
+- [Japanese Cities' Names](hackerRank/6_japanese_cities_names.md)
+- [Weather Observation Station 1](hackerRank/7_weather_observation_station_1.md)
+- [Weather Observation Station 3](hackerRank/8_weather_observation_station_3.md)
 
-## HackerRank Problems List
-### SQL
-[1. Revising the Select Query I](./hackerRank/1_revising_the_select_query_I.md)  
-[2. Revising the Select Query II](./hackerRank/2_revising_the_select_query_II.md)  
-[3. Select All](./hackerRank/3_%20select_all.md)  
-[4. Select By Id](./hackerRank/4_select_by_id.md)  
-[5. Japanese Cities' Attributes](./hackerRank/5_japanese_cities_attributes.md)  
-[6. Japanese Cities' Names](./hackerRank/6_japanese_cities_names.md)  
-[7. Weather Observation Station 1](./hackerRank/7_weather_observation_station_1.md)  
+## LeetCode
+- [Two Sum](leetCode/0001_two_sum.md)
+- [Longest Substring Without Repeating Characters](leetCode/0003_longest_substring_without_repeating_characters.md)
+- [Group Anagrams](leetCode/0049_group_anagrams.md)
+- [Merge Sorted Array](leetCode/0088_merge_sorted_array.md)
+- [Valid Palindrome](leetCode/0125_valid_palindrome.md)
+- [Move Zeroes](leetCode/0283_move_zeroes.md)
+
+### LeetCode SQL Challenges
+- [Find Customer Referee](leetCode/SQL/0584_find_customer_referee.md)
+- [Big Countries](leetCode/SQL/0595_big_countries.md)
+- [Product Sales Analysis I](leetCode/SQL/1068_product_sales_analysis_I.md)
+- [Article Views I](leetCode/SQL/1148_article_views_I.md)
+- [Replace Employee ID with the Unique Identifier](leetCode/SQL/1378_replace_employee_id_with_the_unique_identifier.md)
+- [Invalid Tweets](leetCode/SQL/1683_invalid_tweets.md)
+- [Recyclable and Low Fat Products](leetCode/SQL/1757_recyclable_and_low_fat_products.md)
