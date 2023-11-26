@@ -12,6 +12,8 @@ grinding algos until I lose my mind
 - [0001. Two Sum](./leetCode/0001_two_sum.md)  
 - [0003. Longest Substring Without Repeating Characters](./leetCode/0003_longest_substring_without_repeating_characters.md)  
 - [0022. Generate Parentheses](./leetCode/0022_generate_parentheses.md)
+- [0026. Remove Duplicates from Sorted Array](./leetCode/0026_remove_duplicates_from_sorted_array.md)
+- [0027. Remove Element](./leetCode/0027_remove_element.md)
 - [0049. Group Anagrams](./leetCode/0049_group_anagrams.md)  
 - [0088. Merge Sorted Array](./leetCode/0088_merge_sorted_array.md)  
 - [0118. Pascal's Triangle](./leetCode/0118_pascals_triangle.md)
