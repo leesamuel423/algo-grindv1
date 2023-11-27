@@ -30,6 +30,7 @@ grinding algos until I lose my mind
 - [1581. Customer Who Visited but Did Not Make Any Transactions](./leetCode/SQL/1581_customer_who_visited_but_did_not_make_any_transactions.md) (Db)
 - [1683. Invalid Tweets](./leetCode/SQL/1683_invalid_tweets.md) (Db)  
 - [1757. Recyclable and Low Fat Products](./leetCode/SQL/1757_recyclable_and_low_fat_products.md) (Db)  
+- [1929. Concatenation of Array](./leetCode/1929_concatenation_of_array.md)
 - [2215. Find the Difference of Two Arrays](./leetCode/2215_find_the_difference_of_two_arrays.md)
 
 ## [Daily Byte](https://thedailybyte.dev/) Problems List  
