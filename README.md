@@ -11,6 +11,7 @@ grinding algos until I lose my mind
 ## LeetCode Problems List  
 - [0001. Two Sum](./leetCode/0001_two_sum.md)  
 - [0003. Longest Substring Without Repeating Characters](./leetCode/0003_longest_substring_without_repeating_characters.md)  
+- [0020. Valid Parentheses](./leetCode/0020_valid_parentheses.md)
 - [0022. Generate Parentheses](./leetCode/0022_generate_parentheses.md)
 - [0026. Remove Duplicates from Sorted Array](./leetCode/0026_remove_duplicates_from_sorted_array.md)
 - [0027. Remove Element](./leetCode/0027_remove_element.md)
