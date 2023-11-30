@@ -19,6 +19,7 @@ grinding algos until I lose my mind
 - [0088. Merge Sorted Array](./leetCode/0088_merge_sorted_array.md)  
 - [0118. Pascal's Triangle](./leetCode/0118_pascals_triangle.md)
 - [0125. Valid Palindrome](./leetCode/0125_valid_palindrome.md)  
+- [0155. Min Stack](./leetCode/0155_min_stack.md)
 - [0197. Rising Temperature](./leetCode/SQL/0197_rising_temperature.md) (Db)
 - [0283. Move Zeroes](./leetCode/0283_move_zeroes.md)  
 - [0509. Fibonacci Number](./leetCode/0509_fibonacci_number.md)
