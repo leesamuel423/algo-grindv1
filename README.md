@@ -21,6 +21,7 @@ grinding algos until I lose my mind
 - [0125. Valid Palindrome](./leetCode/0125_valid_palindrome.md)  
 - [0155. Min Stack](./leetCode/0155_min_stack.md)
 - [0197. Rising Temperature](./leetCode/SQL/0197_rising_temperature.md) (Db)
+- [0238. Product of Array Except Self](./leetCode/0238_product_of_array_except_self.md)
 - [0283. Move Zeroes](./leetCode/0283_move_zeroes.md)  
 - [0509. Fibonacci Number](./leetCode/0509_fibonacci_number.md)
 - [0584. Find Customer Referee](./leetCode/SQL/0584_find_customer_referee.md) (Db)
