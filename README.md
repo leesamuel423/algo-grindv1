@@ -20,6 +20,7 @@ grinding algos until I lose my mind
 - [0088. Merge Sorted Array](./leetCode/0088_merge_sorted_array.md)  
 - [0118. Pascal's Triangle](./leetCode/0118_pascals_triangle.md)
 - [0125. Valid Palindrome](./leetCode/0125_valid_palindrome.md)  
+- [0128. Longest Consecutive Sequence](./leetCode/0128_longest_consecutive_sequence.md)
 - [0155. Min Stack](./leetCode/0155_min_stack.md)
 - [0197. Rising Temperature](./leetCode/SQL/0197_rising_temperature.md) (Db)
 - [0238. Product of Array Except Self](./leetCode/0238_product_of_array_except_self.md)
