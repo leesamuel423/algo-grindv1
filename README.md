@@ -66,3 +66,6 @@ grinding algos until I lose my mind
 - [5. Japanese Cities' Attributes](./hackerRank/5_japanese_cities_attributes.md)
 - [6. Japanese Cities' Names](./hackerRank/6_japanese_cities_names.md)
 - [7. Weather Observation Station 1](./hackerRank/7_weather_observation_station_1.md)
+
+## Structy
+- [array-and-string](./structy/array-and-string.py)
