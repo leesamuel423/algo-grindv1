@@ -104,3 +104,101 @@ def merge_lists(head_1, head_2):
 
     return dummy.next
     
+# is univalue list
+def is_univalue_list(head):
+    current = head
+    initial_value = current.val 
+    while current:
+        if current.val != initial_value:
+            return False
+        current = current.next
+    return True
+
+# longest streak
+def longest_streak(head):
+    if not head:
+        return 0
+    current = head
+    current_val = head.val
+    current_streak = 0
+    longest_streak = 0
+
+    while current:
+        if current.val == current_val:
+            current_streak += 1
+        else:
+            current_streak = 1
+            current_val = current.val
+        longest_streak = max(longest_streak, current_streak)
+        current = current.next  
+
+    return longest_streak
+
+# remove node
+def remove_node(head, target_val):
+    if head.val == target_val:
+        return head.next
+    
+    current = head
+    prev = None
+
+    while current:
+        if current.val == target_val:
+            prev.next = current.next
+            break
+        prev = current
+        current = current.next
+
+    return head
+
+# insert node
+def insert_node(head, value, index):
+    new = Node(value)
+    if index == 0:
+        new.next = head
+        return new
+    
+    current = head
+    count = 1
+
+    while current:
+        if count == index:
+            new.next = current.next
+            current.next = new
+            break
+        current = current.next
+        count += 1
+
+    return head
+
+# create linked list
+def create_linked_list(values):
+    head = Node('start')
+    current = head
+    for val in values:
+        new = Node(val)
+        current.next = new
+        current = current.next
+
+    return head.next
+
+# add list actual
+def add_lists(head_1, head_2):
+    c1 = head_1
+    c2 = head_2
+    dummy = Node(None)
+    tail = dummy
+    placeholder = 0
+    while c1 or c2 or placeholder:
+        val1 = 0 if not c1 else c1.val
+        val2 = 0 if not c2 else c2.val
+        sum = val1 + val2 + placeholder
+        placeholder = sum // 10
+        new = Node(sum % 10)
+        tail.next = new
+        tail = tail.next
+        if c1:
+            c1 = c1.next
+        if c2:
+            c2 = c2.next
+    return dummy.next
