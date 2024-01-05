@@ -37,25 +37,55 @@ n == image[i].length
 
 ```js
 const floodFill = function (image, sr, sc, color, firstColor = image[sr][sc]) {
-	if (
-		sr < 0 ||
-		sc < 0 ||
-		sr >= image.length ||
-		sc > image[0].length ||
-		image[sr][sc] !== firstColor ||
-		image[sr][sc] === color
-	)
-		return image;
+  if (
+    sr < 0 ||
+    sc < 0 ||
+    sr >= image.length ||
+    sc > image[0].length ||
+    image[sr][sc] !== firstColor ||
+    image[sr][sc] === color
+  )
+    return image;
 
-	image[sr][sc] = color;
+  image[sr][sc] = color;
 
-	floodFill(image, sr + 1, sc, color, firstColor);
-	floodFill(image, sr - 1, sc, color, firstColor);
-	floodFill(image, sr, sc + 1, color, firstColor);
-	floodFill(image, sr, sc - 1, color, firstColor);
+  floodFill(image, sr + 1, sc, color, firstColor);
+  floodFill(image, sr - 1, sc, color, firstColor);
+  floodFill(image, sr, sc + 1, color, firstColor);
+  floodFill(image, sr, sc - 1, color, firstColor);
 
-	return image;
+  return image;
 };
+```
+
+## Python Solution
+
+```py
+class Solution:
+    def floodFill(self, image, sr, sc, color):
+        starting = image[sr][sc]
+
+        def recurse(image, sr, sc, color, starting):
+            if (
+                sr < 0
+                or sc < 0
+                or sr >= len(image)
+                or sc >= len(image[sr])
+                or image[sr][sc] != starting
+                or image[sr][sc] == color
+            ):
+                return image
+
+            image[sr][sc] = color
+            print(image)
+            recurse(image, sr + 1, sc, color, starting)
+            recurse(image, sr - 1, sc, color, starting)
+            recurse(image, sr, sc + 1, color, starting)
+            recurse(image, sr, sc - 1, color, starting)
+
+            return image
+
+        return recurse(image, sr, sc, color, starting)
 ```
 
 - Time Complexity: O(m \* n)
