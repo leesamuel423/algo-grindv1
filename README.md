@@ -57,6 +57,7 @@ grinding algos until I lose my mind
 - [Vacuum Cleaner Route](./dailyByte/vacuum_cleaner_route.md)
 - [Correct Capitalization](./dailyByte/correct_capitalization.md)
 - [Add Binary](./dailyByte/add_binary.py)
+- [Longest Common Prefix](./dailyByte/longest_common_prefix.py)
 
 ## HackerRank Problems List
 
