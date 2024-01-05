@@ -26,9 +26,11 @@ grinding algos until I lose my mind
 - [0118. Pascal's Triangle](./leetCode/0118_pascals_triangle.md)
 - [0125. Valid Palindrome](./leetCode/0125_valid_palindrome.md)
 - [0128. Longest Consecutive Sequence](./leetCode/0128_longest_consecutive_sequence.md)
+- [0104. Maximum Depth of Binary Tree](./leetCode/0104_maximum_depth_of_binary_tree.py)
 - [0155. Min Stack](./leetCode/0155_min_stack.md)
 - [0167. Two Sum II - Input Array is Sorted](./leetCode/0167_two_sum_II_input_array_is_sorted.md)
 - [0197. Rising Temperature](./leetCode/SQL/0197_rising_temperature.md) (Db)
+- [0206. Reverse Linked List](./leetCode/0206_reverse_linked_list.py)
 - [0238. Product of Array Except Self](./leetCode/0238_product_of_array_except_self.md)
 - [0283. Move Zeroes](./leetCode/0283_move_zeroes.md)
 - [0509. Fibonacci Number](./leetCode/0509_fibonacci_number.md)
@@ -50,10 +52,11 @@ grinding algos until I lose my mind
 
 ## [Daily Byte](https://thedailybyte.dev/) Problems List
 
-- [1. Reverse String](./dailyByte/1_reverse_string.md)
-- [2. Valid Palindrome](./dailyByte/2_valid_palindrome.md)
-- [3. Vacuum Cleaner Route](./dailyByte/3_vacuum_cleaner_route.md)
-- [4. Correct Capitalization](./dailyByte/4_correct_capitalization.md)
+- [Reverse String](./dailyByte/reverse_string.md)
+- [Valid Palindrome](./dailyByte/valid_palindrome.md)
+- [Vacuum Cleaner Route](./dailyByte/vacuum_cleaner_route.md)
+- [Correct Capitalization](./dailyByte/correct_capitalization.md)
+- [Add Binary](./dailyByte/add_binary.py)
 
 ## HackerRank Problems List
 
@@ -68,4 +71,7 @@ grinding algos until I lose my mind
 - [7. Weather Observation Station 1](./hackerRank/7_weather_observation_station_1.md)
 
 ## Structy
+
 - [array-and-string](./structy/array-and-string.py)
+- [linked-lists](./structy/linked-lists.py)
+- [bst](./structy/bst.py)

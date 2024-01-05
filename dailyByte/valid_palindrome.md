@@ -1,9 +1,10 @@
-# 2. Valid Palindrome
+# Valid Palindrome
 
 Given a string, return whether or not it forms a palindrome ignoring case and non-alphabetical characters.
 Note: a palindrome is a sequence of characters that reads the same forwards and backwards.
 
 Ex: Given the following strings...
+
 ```
 "level", return true
 "algorithm", return false
@@ -11,12 +12,13 @@ Ex: Given the following strings...
 ```
 
 ## JavaScript Solution
+
 ```js
-const validPalindrome = s => {
+const validPalindrome = (s) => {
   // helper function to check if is letter or digit
-  const isLetterOrDigit = char => {
+  const isLetterOrDigit = (char) => {
     return /^[a-z0-9]+$/i.test(char);
-  }
+  };
 
   if (!s.length) return true;
   let start = 0;
@@ -37,11 +39,12 @@ const validPalindrome = s => {
 ```
 
 ## Java Solution
+
 ```java
 class Solution {
   public boolean isPalindrome(String s) {
     if (s.isEmpty()) return true;
-    
+
     int start = 0;
     int last = s.length() - 1;
     while (start <= last) {
@@ -61,6 +64,7 @@ class Solution {
 ```
 
 ## Python Solution
+
 ```py3
 class Solution:
   def is_palindrome(s: str) -> bool:
@@ -81,6 +85,7 @@ class Solution:
 ```
 
 ## Overall Strategy
+
 - Time Complexity: O(n)
 - Space Complexity: O(1)
 
