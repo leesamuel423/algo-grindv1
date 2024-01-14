@@ -13,6 +13,7 @@ grinding algos until I lose my mind
 
 - [0001. Two Sum](./leetCode/0001_two_sum.md)
 - [0003. Longest Substring Without Repeating Characters](./leetCode/0003_longest_substring_without_repeating_characters.md)
+- [0015. 3Sum](./leetCode/0015_3sum.py)
 - [0020. Valid Parentheses](./leetCode/0020_valid_parentheses.md)
 - [0021. Merge Two Sorted Lists](./leetCode/0021_merge_two_sorted_lists.md)
 - [0022. Generate Parentheses](./leetCode/0022_generate_parentheses.md)
