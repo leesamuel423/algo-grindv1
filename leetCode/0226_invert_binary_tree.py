@@ -45,9 +45,9 @@ def invertTree(self, root: Optional[TreeNode]) -> Optional[TreeNode]:
     return root
 
 
-# Solution can be solved iteratively
+# Solution can be solved recursively
 
-def invertTreeIterative(self, root):
+def invertTreeR(self, root):
     if root:
-        root.left, root.right = self.invertTreeIterative(root.right), self.invertTreeIterative(root.left)
+        root.left, root.right = self.invertTreeR(root.right), self.invertTreeR(root.left)
     return root
