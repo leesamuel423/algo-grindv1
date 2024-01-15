@@ -32,6 +32,7 @@ grinding algos until I lose my mind
 - [0167. Two Sum II - Input Array is Sorted](./leetCode/0167_two_sum_II_input_array_is_sorted.md)
 - [0197. Rising Temperature](./leetCode/SQL/0197_rising_temperature.md) (Db)
 - [0206. Reverse Linked List](./leetCode/0206_reverse_linked_list.py)
+- [0266. Invert Binary Tree](./leetCode/0226_invert_binary_tree.py)
 - [0278. First Bad Version](./leetCode/0278_first_bad_version.py)
 - [0238. Product of Array Except Self](./leetCode/0238_product_of_array_except_self.md)
 - [0283. Move Zeroes](./leetCode/0283_move_zeroes.md)
