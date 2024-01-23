@@ -24,6 +24,7 @@ grinding algos until I lose my mind
 - [0062. Unique Paths](./leetCode/0062_unique_paths.md)
 - [0088. Merge Sorted Array](./leetCode/0088_merge_sorted_array.md)
 - [0104. Maximum Depth of Binary Tree](./leetCode/0104_maximum_depth_of_binary_tree.py)
+- [0110. Balanced Binary Tree](./leetCode/0110_balanced_binary_tree.py)
 - [0118. Pascal's Triangle](./leetCode/0118_pascals_triangle.md)
 - [0121. Best Time to Buy and Sell Stock](./leetCode/0121_best_time_to_buy_and_sell_stock.md)
 - [0125. Valid Palindrome](./leetCode/0125_valid_palindrome.md)
