@@ -41,6 +41,7 @@ grinding algos until I lose my mind
 - [0509. Fibonacci Number](./leetCode/0509_fibonacci_number.md)
 - [0584. Find Customer Referee](./leetCode/SQL/0584_find_customer_referee.md) (Db)
 - [0595. Big Countries](./leetCode/SQL/0595_big_countries.md) (Db)
+- [0645. Set Mismatch](./leetCode/0645_set_mismatch.py)
 - [0682. Baseball Game](./leetCode/0682_baseball_game.md)
 - [0733. Flood Fill](./leetCode/0733_flood_fill.md)
 - [0876. Middle of the Linked List](./leetCode/0876_middle_of_the_linked_list.py)
