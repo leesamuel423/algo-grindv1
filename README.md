@@ -39,6 +39,7 @@ grinding algos until I lose my mind
 - [0283. Move Zeroes](./leetCode/0283_move_zeroes.md)
 - [0322. Coin Change](./leetCode/0322_coin_change.py)
 - [0383. Ransom Note](./leetCode/0383_ransom_note.py)
+- [0389. Find the Difference](./leetCode/0389_find_the_difference.py)
 - [0509. Fibonacci Number](./leetCode/0509_fibonacci_number.md)
 - [0584. Find Customer Referee](./leetCode/SQL/0584_find_customer_referee.md) (Db)
 - [0595. Big Countries](./leetCode/SQL/0595_big_countries.md) (Db)
