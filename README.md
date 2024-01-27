@@ -45,6 +45,7 @@ grinding algos until I lose my mind
 - [0595. Big Countries](./leetCode/SQL/0595_big_countries.md) (Db)
 - [0645. Set Mismatch](./leetCode/0645_set_mismatch.py)
 - [0682. Baseball Game](./leetCode/0682_baseball_game.md)
+- [0704. Binary Search](./leetCode/0704_binary_search.py)
 - [0733. Flood Fill](./leetCode/0733_flood_fill.md)
 - [0876. Middle of the Linked List](./leetCode/0876_middle_of_the_linked_list.py)
 - [1068. Product Sales Analysis I](./leetCode/SQL/1068_product_sales_analysis_I.md) (Db)
@@ -58,6 +59,10 @@ grinding algos until I lose my mind
 - [1757. Recyclable and Low Fat Products](./leetCode/SQL/1757_recyclable_and_low_fat_products.md) (Db)
 - [1929. Concatenation of Array](./leetCode/1929_concatenation_of_array.md)
 - [2215. Find the Difference of Two Arrays](./leetCode/2215_find_the_difference_of_two_arrays.md)
+
+## [CSES Problem Set](https://cses.fi/problemset/list/)
+
+- [Weird Algorithm](./cses/introductory_problems/weird_algorithm.py)
 
 ## [Daily Byte](https://thedailybyte.dev/) Problems List
 
