@@ -38,6 +38,7 @@ grinding algos until I lose my mind
 - [0169. Majority Element](./leetCode/0169_majority_element.py)
 - [0197. Rising Temperature](./leetCode/SQL/0197_rising_temperature.md) (Db)
 - [0206. Reverse Linked List](./leetCode/0206_reverse_linked_list.py)
+- [0217. Contains Duplicate](./leetCode/0217_contains_duplicate.py)
 - [0266. Invert Binary Tree](./leetCode/0226_invert_binary_tree.py)
 - [0278. First Bad Version](./leetCode/0278_first_bad_version.py)
 - [0238. Product of Array Except Self](./leetCode/0238_product_of_array_except_self.md)
