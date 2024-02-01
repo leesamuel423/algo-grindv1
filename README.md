@@ -59,6 +59,7 @@ grinding algos until I lose my mind
 - [1378. Replace Employee ID With The Unique Identifier](./leetCode/SQL/1378_replace_employee_id_with_the_unique_identifier.md) (Db)
 - [1464. Maximum Product of Two Elements in an Array](./leetCode/1464_maximum_product_of_two_elements_in_an_array.md)
 - [1480. Running Sum of 1d Array](./leetCode/1480_running_sum_of_1d_array.md)
+- [1570. Dot Product of Two Sparse Vectors](./leetcode/1570_dot_product_of_two_sparse_vectors.py)
 - [1581. Customer Who Visited but Did Not Make Any Transactions](./leetCode/SQL/1581_customer_who_visited_but_did_not_make_any_transactions.md) (Db)
 - [1683. Invalid Tweets](./leetCode/SQL/1683_invalid_tweets.md) (Db)
 - [1688. Count of Matches in Tournament](./leetCode/1688_count_of_matches_in_tournament.md)
