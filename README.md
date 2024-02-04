@@ -43,6 +43,7 @@ grinding algos until I lose my mind
 - [0278. First Bad Version](./leetCode/0278_first_bad_version.py)
 - [0238. Product of Array Except Self](./leetCode/0238_product_of_array_except_self.md)
 - [0283. Move Zeroes](./leetCode/0283_move_zeroes.md)
+- [0293. Flip Game](./leetCode/0293_flip_game.py)
 - [0322. Coin Change](./leetCode/0322_coin_change.py)
 - [0383. Ransom Note](./leetCode/0383_ransom_note.py)
 - [0389. Find the Difference](./leetCode/0389_find_the_difference.py)
