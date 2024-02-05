@@ -26,7 +26,7 @@ currentState[i] is either '+' or '-'.
 
 
 class Solution:
-    def generatePossibleNextMoves(self, currentState: str) -> List[str]:
+    def generatePossibleNextMoves(self, currentState: str) -> list[str]:
         final = []
         for i in range(len(currentState) - 1):
             if currentState[i : i + 2] == "++":

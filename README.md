@@ -65,6 +65,7 @@ grinding algos until I lose my mind
 - [1683. Invalid Tweets](./leetCode/SQL/1683_invalid_tweets.md) (Db)
 - [1688. Count of Matches in Tournament](./leetCode/1688_count_of_matches_in_tournament.md)
 - [1757. Recyclable and Low Fat Products](./leetCode/SQL/1757_recyclable_and_low_fat_products.md) (Db)
+- [1905. Count Sub Islands](./leetCode/1905_count_sub_islands.py)
 - [1929. Concatenation of Array](./leetCode/1929_concatenation_of_array.md)
 - [2215. Find the Difference of Two Arrays](./leetCode/2215_find_the_difference_of_two_arrays.md)
 - [2966. Divide Array Into Arrays With Max Difference](./leetCode/2966_divide_array_into_arrays_with_max_difference.py)

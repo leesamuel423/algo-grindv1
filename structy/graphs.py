@@ -280,27 +280,45 @@ def closest_carrot(grid, starting_row, starting_col):
     utilize bfs in order to get to carrot
     """
     visited = set()
-    queue = deque([starting_row, starting_col])
-    count = 0
+    queue = deque([(starting_row, starting_col, 0)])
 
     while queue:
-        r, c = deque.popleft()
+        r, c, d = queue.popleft()
+        row_range = 0 <= r < len(grid)
+        col_range = 0 <= c < len(grid[0])
+        if not row_range or not col_range or grid[r][c] == "X" or (r, c) in visited:
+            continue
         if grid[r][c] == "C":
-            return count
+            return d
+        visited.add((r, c))
+
+        queue.append((r - 1, c, d + 1))
+        queue.append((r + 1, c, d + 1))
+        queue.append((r, c - 1, d + 1))
+        queue.append((r, c + 1, d + 1))
+
+    return -1
 
 
-# def bfs_shortest_path(graph, start, target, visited):
-#     queue = deque([(start, 0)])
-#
-#     while queue:
-#         a, b = queue.popleft()
-#         if a == target:
-#             return b
-#         visited.add(a)
-#
-#         for neighbor in graph[a]:
-#             if neighbor not in visited:
-#                 queue.append((neighbor, b + 1))
-#
-#     return -1
-#
+# ------------> LONGEST PATH <------------
+def longest_path(graph):
+    distance = {}
+    for node in graph:
+        if len(graph[node]) == 0:
+            distance[node] = 0
+    for node in graph:
+        dfs_longest_path(graph, node, distance)
+    return max(distance.values())
+
+
+def dfs_longest_path(graph, node, distance):
+    if node in distance:
+        return distance[node]
+
+    largest = 0
+
+    for neighbor in graph[node]:
+        largest = max(largest, dfs_longest_path(graph, neighbor, distance))
+    distance[node] = 1 + largest
+
+    return distance[node]
