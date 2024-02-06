@@ -55,6 +55,7 @@ grinding algos until I lose my mind
 - [0704. Binary Search](./leetCode/0704_binary_search.py)
 - [0733. Flood Fill](./leetCode/0733_flood_fill.md)
 - [0876. Middle of the Linked List](./leetCode/0876_middle_of_the_linked_list.py)
+- [0938. Range Sum of BST](./leetCode/0938_range_sum_of_bst.py)
 - [1068. Product Sales Analysis I](./leetCode/SQL/1068_product_sales_analysis_I.md) (Db)
 - [1148. Article Views I](./leetCode/0049_group_anagrams.md) (Db)
 - [1378. Replace Employee ID With The Unique Identifier](./leetCode/SQL/1378_replace_employee_id_with_the_unique_identifier.md) (Db)
