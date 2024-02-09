@@ -33,6 +33,7 @@ grinding algos until I lose my mind
 - [0125. Valid Palindrome](./leetCode/0125_valid_palindrome.md)
 - [0128. Longest Consecutive Sequence](./leetCode/0128_longest_consecutive_sequence.md)
 - [0141. Linked List Cycle](./leetCode/0141_linked_list_cycle.py)
+- [0147. LRU Cache](./leetCode/0147_LRU_cache.py)
 - [0155. Min Stack](./leetCode/0155_min_stack.md)
 - [0167. Two Sum II - Input Array is Sorted](./leetCode/0167_two_sum_II_input_array_is_sorted.md)
 - [0169. Majority Element](./leetCode/0169_majority_element.py)
