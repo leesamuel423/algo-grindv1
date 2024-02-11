@@ -46,6 +46,7 @@ grinding algos until I lose my mind
 - [0283. Move Zeroes](./leetCode/0283_move_zeroes.md)
 - [0293. Flip Game](./leetCode/0293_flip_game.py)
 - [0322. Coin Change](./leetCode/0322_coin_change.py)
+- [0339. Nested List Weight Sum](./leetCode/0339_nested_list_weight_sum.py)
 - [0383. Ransom Note](./leetCode/0383_ransom_note.py)
 - [0389. Find the Difference](./leetCode/0389_find_the_difference.py)
 - [0509. Fibonacci Number](./leetCode/0509_fibonacci_number.md)
