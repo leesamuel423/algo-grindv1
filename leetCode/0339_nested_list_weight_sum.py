@@ -32,17 +32,36 @@ Constraints:
 The values of the integers in the nested list is in the range [-100, 100].
 The maximum depth of any integer is less than or equal to 50.
 """
+from collections import deque
 
 
+# BFS Solution
 class Solution:
-    def depthSum(self, nestedList):
-        def dfs(lst, level):
-            total = 0
-            for el in nestedList:
-                if el.isInteger():
-                    total += el.getInteger() * level
-                else:
-                    total += dfs(el.getList(), level + 1)
-            return total
+    def depthSum(self, nestedList: List[NestedInteger]) -> int:
+        sum = 0
+        queue = deque([(nestedList, 1)])
 
-        return dfs(nestedList, 1)
+        while queue:
+            current = queue.popleft()
+            for el in current[0]:
+                if el.isInteger():
+                    sum += el.getInteger() * current[1]
+                else:
+                    queue.append((el.getList(), current[1] + 1))
+
+        return sum
+
+
+# DFS Solution
+# class Solution:
+#     def depthSum(self, nestedList):
+#         def dfs(lst, level):
+#             total = 0
+#             for el in nestedList:
+#                 if el.isInteger():
+#                     total += el.getInteger() * level
+#                 else:
+#                     total += dfs(el.getList(), level + 1)
+#             return total
+#
+#         return dfs(nestedList, 1)
