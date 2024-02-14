@@ -46,6 +46,7 @@ grinding algos until I lose my mind
 - [0238. Product of Array Except Self](./leetCode/0238_product_of_array_except_self.md)
 - [0283. Move Zeroes](./leetCode/0283_move_zeroes.md)
 - [0293. Flip Game](./leetCode/0293_flip_game.py)
+- [0314. Binary Tree Vertical Order Traversal](./leetCode/0314_binary_tree_vertical_order_traversal.py)
 - [0322. Coin Change](./leetCode/0322_coin_change.py)
 - [0339. Nested List Weight Sum](./leetCode/0339_nested_list_weight_sum.py)
 - [0383. Ransom Note](./leetCode/0383_ransom_note.py)
