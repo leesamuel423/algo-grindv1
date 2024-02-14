@@ -26,6 +26,7 @@ grinding algos until I lose my mind
 - [0066. Plus One](./leetCode/0066_plus_one.py)
 - [0070. Climbing Stairs](./leetCode/0070_climbing_stairs.py)
 - [0088. Merge Sorted Array](./leetCode/0088_merge_sorted_array.md)
+- [0102. Binary Tree Level Order Traversal](./leetCode/0102_binary_tree_level_order_traversal.py)
 - [0104. Maximum Depth of Binary Tree](./leetCode/0104_maximum_depth_of_binary_tree.py)
 - [0110. Balanced Binary Tree](./leetCode/0110_balanced_binary_tree.py)
 - [0118. Pascal's Triangle](./leetCode/0118_pascals_triangle.md)
