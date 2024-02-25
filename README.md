@@ -83,6 +83,7 @@ grinding algos until I lose my mind
 - [2215. Find the Difference of Two Arrays](./leetCode/2215_find_the_difference_of_two_arrays.md)
 - [2583. Kth Largest Sum in a Binary Tree](./leetCode/2583_kth_largest_sum_in_a_binary_tree.py)
 - [2966. Divide Array Into Arrays With Max Difference](./leetCode/2966_divide_array_into_arrays_with_max_difference.py)
+- [3046. Split the Array](./leetcode/3046_split_the_array.py)
 
 ## [CSES Problem Set](https://cses.fi/problemset/list/)
 
