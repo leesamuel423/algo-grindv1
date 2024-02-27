@@ -68,6 +68,7 @@ grinding algos until I lose my mind
 - [0994. Rotting Oranges](./leetCode/0994_rotting_oranges.py)
 - [1068. Product Sales Analysis I](./leetCode/SQL/1068_product_sales_analysis_I.md) (Db)
 - [1148. Article Views I](./leetCode/0049_group_anagrams.md) (Db)
+- [1207. Unique Number of Occurrences](./leetCode/1207_unique_number_of_occurrences.py)
 - [1249. Minimum Remove to Make Valid Parentheses](./leetCode/1249_minimum_remove_to_make_valid_parentheses.py)
 - [1378. Replace Employee ID With The Unique Identifier](./leetCode/SQL/1378_replace_employee_id_with_the_unique_identifier.md) (Db)
 - [1464. Maximum Product of Two Elements in an Array](./leetCode/1464_maximum_product_of_two_elements_in_an_array.md)
