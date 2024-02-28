@@ -70,6 +70,7 @@ grinding algos until I lose my mind
 - [1148. Article Views I](./leetCode/0049_group_anagrams.md) (Db)
 - [1207. Unique Number of Occurrences](./leetCode/1207_unique_number_of_occurrences.py)
 - [1249. Minimum Remove to Make Valid Parentheses](./leetCode/1249_minimum_remove_to_make_valid_parentheses.py)
+- [1352. Product of the Last K Numbers](./leetCode/1352_product_of_the_last_k_numbers.py)
 - [1378. Replace Employee ID With The Unique Identifier](./leetCode/SQL/1378_replace_employee_id_with_the_unique_identifier.md) (Db)
 - [1464. Maximum Product of Two Elements in an Array](./leetCode/1464_maximum_product_of_two_elements_in_an_array.md)
 - [1480. Running Sum of 1d Array](./leetCode/1480_running_sum_of_1d_array.md)
