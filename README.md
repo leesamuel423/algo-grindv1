@@ -55,6 +55,7 @@ grinding algos until I lose my mind
 - [0389. Find the Difference](./leetCode/0389_find_the_difference.py)
 - [0408. Valid Word Abbreviation](./leetCode/0408_valid_word_abbreviation.py)
 - [0509. Fibonacci Number](./leetCode/0509_fibonacci_number.md)
+- [0545. Boundary of Binary Tree](./leetCode/0545_boundary_of_binary_tree.py)
 - [0560. Subarray Sum Equals K](./leetCode/0560_subarray_sum_equals_k.py)
 - [0584. Find Customer Referee](./leetCode/SQL/0584_find_customer_referee.md) (Db)
 - [0595. Big Countries](./leetCode/SQL/0595_big_countries.md) (Db)
