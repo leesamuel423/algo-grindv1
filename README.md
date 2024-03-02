@@ -75,6 +75,7 @@ grinding algos until I lose my mind
 - [0994. Rotting Oranges](./leetCode/0994_rotting_oranges.py)
 - [1068. Product Sales Analysis I](./leetCode/SQL/1068_product_sales_analysis_I.md) (Db)
 - [1148. Article Views I](./leetCode/0049_group_anagrams.md) (Db)
+- [1913. Maximum Product Difference Between Two Pairs](./leetCode/1913_maximum_product_difference_between_two_pairs.py)
 - [1207. Unique Number of Occurrences](./leetCode/1207_unique_number_of_occurrences.py)
 - [1249. Minimum Remove to Make Valid Parentheses](./leetCode/1249_minimum_remove_to_make_valid_parentheses.py)
 - [1352. Product of the Last K Numbers](./leetCode/1352_product_of_the_last_k_numbers.py)
