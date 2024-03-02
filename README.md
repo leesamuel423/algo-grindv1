@@ -21,6 +21,7 @@ grinding algos until I lose my mind
 - [0027. Remove Element](./leetCode/0027_remove_element.md)
 - [0035. Search Insert Position](./leetCode/0035_search_insert_position.py)
 - [0036. Valid Sudoku](./leetCode/0036_valid_sudoku.md)
+- [0042. Trapping Rain Water](./leetCode/0042_trapping_rain_water.py)
 - [0049. Group Anagrams](./leetCode/0049_group_anagrams.md)
 - [0054. Spiral Matrix](./leetCode/0054_spiral_matrix.py)
 - [0056. Merge Intervals](./leetCode/0056_merge_intervals.py)
