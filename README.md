@@ -13,6 +13,7 @@ grinding algos until I lose my mind
 
 - [0001. Two Sum](./leetCode/0001_two_sum.md)
 - [0003. Longest Substring Without Repeating Characters](./leetCode/0003_longest_substring_without_repeating_characters.md)
+- [0014. Longest Common Prefix](./leetcode/0014_longest_common_prefix.py)
 - [0015. 3Sum](./leetCode/0015_3sum.py)
 - [0020. Valid Parentheses](./leetCode/0020_valid_parentheses.md)
 - [0021. Merge Two Sorted Lists](./leetCode/0021_merge_two_sorted_lists.md)
@@ -60,6 +61,7 @@ grinding algos until I lose my mind
 - [0408. Valid Word Abbreviation](./leetCode/0408_valid_word_abbreviation.py)
 - [0443. String Compression](./leetCode/0443_string_compression.py)
 - [0455. Assign Cookies](./leetCode/0455_assign_cookies.py)
+- [0456. 132 Pattern](./leetCode/0456_132_pattern.py)
 - [0509. Fibonacci Number](./leetCode/0509_fibonacci_number.md)
 - [0545. Boundary of Binary Tree](./leetCode/0545_boundary_of_binary_tree.py)
 - [0560. Subarray Sum Equals K](./leetCode/0560_subarray_sum_equals_k.py)
