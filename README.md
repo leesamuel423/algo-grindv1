@@ -97,6 +97,7 @@ grinding algos until I lose my mind
 - [1929. Concatenation of Array](./leetCode/1929_concatenation_of_array.md)
 - [2215. Find the Difference of Two Arrays](./leetCode/2215_find_the_difference_of_two_arrays.md)
 - [2305. Fair Distribution of Cookies](./leetCode/2305_fair_distribution_of_cookies.py)
+- [2385. Amount of Time for Binary Tree to Be Infected](./leetCode/2385_amount_of_time_for_binary_tree_to_be_infected.py)
 - [2583. Kth Largest Sum in a Binary Tree](./leetCode/2583_kth_largest_sum_in_a_binary_tree.py)
 - [2966. Divide Array Into Arrays With Max Difference](./leetCode/2966_divide_array_into_arrays_with_max_difference.py)
 - [3046. Split the Array](./leetcode/3046_split_the_array.py)
