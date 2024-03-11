@@ -105,6 +105,7 @@ grinding algos until I lose my mind
 ## [CSES Problem Set](https://cses.fi/problemset/list/)
 
 - [Weird Algorithm](./cses/introductory_problems/weird_algorithm.py)
+- [Missing Number](./cses/introductory_problems/missing_number.py)
 
 ## [Daily Byte](https://thedailybyte.dev/) Problems List
 
