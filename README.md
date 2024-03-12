@@ -106,6 +106,9 @@ grinding algos until I lose my mind
 
 - [Weird Algorithm](./cses/introductory_problems/weird_algorithm.py)
 - [Missing Number](./cses/introductory_problems/missing_number.py)
+- [Repetitions](./cses/introductory_problems/repetitions.py)
+- [Increasing Array](./cses/introductory_problems/increasing_array.py)
+- [Permutations](./cses/introductory_problems/permutations.py)
 
 ## [Daily Byte](https://thedailybyte.dev/) Problems List
 
