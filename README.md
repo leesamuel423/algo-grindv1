@@ -26,6 +26,7 @@ grinding algos until I lose my mind
 - [0049. Group Anagrams](./leetCode/0049_group_anagrams.md)
 - [0054. Spiral Matrix](./leetCode/0054_spiral_matrix.py)
 - [0056. Merge Intervals](./leetCode/0056_merge_intervals.py)
+- [0058. Length of Last Word](./leetCode/0058_length_of_last_word.md)
 - [0062. Unique Paths](./leetCode/0062_unique_paths.md)
 - [0066. Plus One](./leetCode/0066_plus_one.py)
 - [0070. Climbing Stairs](./leetCode/0070_climbing_stairs.py)
@@ -109,6 +110,7 @@ grinding algos until I lose my mind
 - [Repetitions](./cses/introductory_problems/repetitions.py)
 - [Increasing Array](./cses/introductory_problems/increasing_array.py)
 - [Permutations](./cses/introductory_problems/permutations.py)
+- [Number Spiral](./cses/introductory_problems/number_spiral.py)
 
 ## [Daily Byte](https://thedailybyte.dev/) Problems List
 
