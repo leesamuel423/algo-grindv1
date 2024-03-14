@@ -70,6 +70,7 @@ grinding algos until I lose my mind
 - [0595. Big Countries](./leetCode/SQL/0595_big_countries.md) (Db)
 - [0645. Set Mismatch](./leetCode/0645_set_mismatch.py)
 - [0682. Baseball Game](./leetCode/0682_baseball_game.md)
+- [0695. Max Area of Island](./leetCode/0695_max_area_of_island.py)
 - [0704. Binary Search](./leetCode/0704_binary_search.py)
 - [0733. Flood Fill](./leetCode/0733_flood_fill.md)
 - [0876. Middle of the Linked List](./leetCode/0876_middle_of_the_linked_list.py)
