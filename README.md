@@ -57,6 +57,7 @@ grinding algos until I lose my mind
 - [0322. Coin Change](./leetCode/0322_coin_change.py)
 - [0339. Nested List Weight Sum](./leetCode/0339_nested_list_weight_sum.py)
 - [0341. Flatten Nested List Iterators](./leetCode/0341_flatten_nested_list_iterator.py)
+- [0347. Top K Frequent Elements](./leetCode/0347_top_k_frequent_elements.py)
 - [0383. Ransom Note](./leetCode/0383_ransom_note.py)
 - [0389. Find the Difference](./leetCode/0389_find_the_difference.py)
 - [0408. Valid Word Abbreviation](./leetCode/0408_valid_word_abbreviation.py)
