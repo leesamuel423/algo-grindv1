@@ -125,6 +125,9 @@ grinding algos until I lose my mind
 - [Correct Capitalization](./dailyByte/correct_capitalization.md)
 - [Add Binary](./dailyByte/add_binary.py)
 - [Longest Common Prefix](./dailyByte/longest_common_prefix.py)
+- [Valid Palindrome with Removal](./dailyByte/valid_palindrome_with_removal.py)
+- [Jewels and Stones](./dailyByte/jewels_and_stones.py)
+- [Valid Anagram](./dailyByte/valid_anagram.py)
 
 ## HackerRank Problems List
 
