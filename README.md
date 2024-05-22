@@ -31,6 +31,7 @@ grinding algos until I lose my mind
 - [0066. Plus One](./leetCode/0066_plus_one.py)
 - [0070. Climbing Stairs](./leetCode/0070_climbing_stairs.py)
 - [0071. Simplify Path](./leetCode/0071_simplify_path.py)
+- [0078. Subsets](./leetCode/0078_subsets.py)
 - [0088. Merge Sorted Array](./leetCode/0088_merge_sorted_array.md)
 - [0102. Binary Tree Level Order Traversal](./leetCode/0102_binary_tree_level_order_traversal.py)
 - [0104. Maximum Depth of Binary Tree](./leetCode/0104_maximum_depth_of_binary_tree.py)
