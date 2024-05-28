@@ -120,6 +120,7 @@ grinding algos until I lose my mind
 - [Increasing Array](./cses/introductory_problems/increasing_array.py)
 - [Permutations](./cses/introductory_problems/permutations.py)
 - [Number Spiral](./cses/introductory_problems/number_spiral.py)
+- [Two Set](./cses/introductory_problems/two_set.py)
 
 ## [Daily Byte](https://thedailybyte.dev/) Problems List
 
