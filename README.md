@@ -12,6 +12,7 @@ grinding algos until I lose my mind
 ## LeetCode Problems List
 
 - [0001. Two Sum](./leetCode/0001_two_sum.md)
+- [0002. Add Two Numbers](./leetCode/0002_add_two_numbers.py)
 - [0003. Longest Substring Without Repeating Characters](./leetCode/0003_longest_substring_without_repeating_characters.md)
 - [0006. Zigzag Conversion](./leetCode/0006_zigzag_conversion.py)
 - [0011. Container With Most Water](./leetCode/0011_container_with_most_water.py)
@@ -39,6 +40,7 @@ grinding algos until I lose my mind
 - [0102. Binary Tree Level Order Traversal](./leetCode/0102_binary_tree_level_order_traversal.py)
 - [0104. Maximum Depth of Binary Tree](./leetCode/0104_maximum_depth_of_binary_tree.py)
 - [0110. Balanced Binary Tree](./leetCode/0110_balanced_binary_tree.py)
+- [0113. Path Sum II](./leetCode/0113_path_sum_II.py)
 - [0118. Pascal's Triangle](./leetCode/0118_pascals_triangle.md)
 - [0121. Best Time to Buy and Sell Stock](./leetCode/0121_best_time_to_buy_and_sell_stock.md)
 - [0125. Valid Palindrome](./leetCode/0125_valid_palindrome.md)
