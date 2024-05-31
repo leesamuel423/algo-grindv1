@@ -68,6 +68,7 @@ grinding algos until I lose my mind
 - [0347. Top K Frequent Elements](./leetCode/0347_top_k_frequent_elements.py)
 - [0383. Ransom Note](./leetCode/0383_ransom_note.py)
 - [0389. Find the Difference](./leetCode/0389_find_the_difference.py)
+- [0394. Decode String](./leetCode/0394_decode_string.py)
 - [0408. Valid Word Abbreviation](./leetCode/0408_valid_word_abbreviation.py)
 - [0443. String Compression](./leetCode/0443_string_compression.py)
 - [0455. Assign Cookies](./leetCode/0455_assign_cookies.py)
